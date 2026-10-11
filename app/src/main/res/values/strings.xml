@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simply Coffee</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_settings">Settings</string>
+    <string name="lbl_activate">Activate Account</string>
+    <string name="lbl_create"> Create Account</string>
+    <string name="lbl_no_account">Don\'t have an account? </string>
+    <string name="lbl_sign_in">SIGN IN</string>
+    <string name="lbl_enter_password">Enter your password</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_email">you@example.com</string>
+    <string name="lbl_email_address">Email Address</string>
+    <string name="lbl_sign_account">Sign in to your account</string>
+    <string name="lbl_welcome">Simply Coffee</string>
+    <string name="lbl_activate_question">Already activated? </string>
+    <string name="lbl_activate_code">Enter the 10-character code from your email.</string>
+    <string name="lbl_activate_hints">XXXXXXXXXX</string>
+    <string name="lbl_activation_code">Activation Code</string>
+    <string name="lbl_email_example">you@email.com</string>
+    <string name="lbl_email_label">Email Address</string>
+</resources>
